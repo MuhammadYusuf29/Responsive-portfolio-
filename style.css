@@ -418,7 +418,7 @@ input[type=submit]:hover {
 }
 
 .about {
-  background-color: #f8f8f8f8;
+  background-color: #171717;
   overflow: hidden;
 }
 
@@ -486,6 +486,9 @@ input[type=submit]:hover {
 }
 
 @media screen and (max-width:768px) {
+  body {
+    /* overflow-x: hidden; */
+  }
     nav .checkbox {
       display: block;
       color: white;
