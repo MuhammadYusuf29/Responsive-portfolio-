@@ -489,6 +489,9 @@ input[type=submit]:hover {
   body {
     /* overflow-x: hidden; */
   }
+  .title {
+    margin: 0 auto;
+  }
     nav .checkbox {
       display: block;
       color: white;
