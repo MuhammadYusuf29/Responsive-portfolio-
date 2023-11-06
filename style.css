@@ -494,9 +494,9 @@ input[type=submit]:hover {
     ul {
       position: absolute;
       width: 100%;
-      height: 110vh;
+      height: 100vh;
       left: -100%;
-      top: 10px;
+      top: 80px;
       background: #171717;
       flex-direction: column;
       justify-content: center;
