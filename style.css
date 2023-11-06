@@ -486,11 +486,8 @@ input[type=submit]:hover {
 }
 
 @media screen and (max-width:768px) {
-  body {
-    /* overflow-x: hidden; */
-  }
-  .title {
-    margin-left: 50px;
+  .col-content {
+    margin: 0 auto;
   }
     nav .checkbox {
       display: block;
