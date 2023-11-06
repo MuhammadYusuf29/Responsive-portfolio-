@@ -486,9 +486,6 @@ input[type=submit]:hover {
 }
 
 @media screen and (max-width:768px) {
-  .col-content {
-    margin-left: auto;
-  }
     nav .checkbox {
       display: block;
       color: white;
@@ -497,9 +494,9 @@ input[type=submit]:hover {
     ul {
       position: absolute;
       width: 100%;
-      height: 100vh;
+      height: 110vh;
       left: -100%;
-      top: 80px;
+      top: 10px;
       background: #171717;
       flex-direction: column;
       justify-content: center;
